@@ -7,3 +7,18 @@ good, average or bad. Any value of quality predicted which is less than 6 is mar
 •average' and greater than 6 is marked as'good'.Out of 1599 data points, 1000 are used to train the model and the
 rest are used for testing.
 Technology used- Python3, 
+
+DESCRIPTION
+fixed.acidity
+volatile.acidity	
+citric.acid	
+residual.sugar	
+chlorides	
+free.sulfur.dioxide	
+total.sulfur.dioxide	
+density	
+pH	
+sulphates	
+alcohol	
+quality (label)
+The final prediction is based on Random Forest. Train accuracy is around 0.93 which shows that it has low bias.
