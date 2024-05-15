@@ -9,6 +9,7 @@ rest are used for testing.
 Technology used- Python3, 
 
 DESCRIPTION
+
 fixed.acidity
 volatile.acidity	
 citric.acid	
@@ -21,4 +22,6 @@ pH
 sulphates	
 alcohol	
 quality (label)
+
+
 The final prediction is based on Random Forest. Train accuracy is around 0.93 which shows that it has low bias.
